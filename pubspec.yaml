@@ -38,8 +38,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_slidable: ^2.0.0
   google_fonts: ^4.0.3
-  hive: ^2.2.3
-  hive_flutter: any
+  hive: 
+  hive_flutter: 
 
 dev_dependencies:
   flutter_test:
